@@ -1,10 +1,41 @@
-- 👋 Hi, I’m @kevinkkliu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋, I'm @kevinkkliu!
 
-<!---
-kevinkkliu/kevinkkliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a software and cybersecurity professional based in Taiwan. I specialize in backend architecture, API development, and Security Operations Center (SOC) analysis. I enjoy building secure, efficient systems and turning complex logs into actionable security insights.
+
+- 👀 **I’m interested in:** Cybersecurity (Threat Intelligence, Forensics), Backend Development, Music Production, and Sports Tech.
+- 🌱 **I’m currently learning:** Continuously expanding my security expertise and preparing for my IELTS exam. 
+- 💞️ **I’m looking to collaborate on:** Open-source security tools, backend architectures, or applications that connect people (like my badminton matching app, `bat_match_app`).
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/cookie-without-monster/)]、[104人力銀行](https://pda.104.com.tw/profile/share/a6JLKeDMBwjiHgZliWdbolftgn3jrRQc)
+
+---
+
+### 🛠️ Tech Stack & Expertise
+* **Development:** Backend Engineering, API Design & Maintenance
+* **Security & Analysis:** SOC Analysis, Log Analysis, Security Optimization, Threat Intelligence (e.g., VirusTotal API integration)
+* **Environment:** macOS
+
+### 🏆 Certifications
+* Certified Threat Intelligence Analyst (CTIA) v2
+* Computer Hacking Forensic Investigator (CHFI) v11
+* EC-Council Certified Security Specialist (ECSS)
+
+### whaula whuala，我是 @kevinkkliu！
+
+我是一名位於台灣的軟體與資安專業人員。我的專長在於後端架構、API 開發以及資安營運中心 (SOC) 分析。我熱衷於打造安全、高效能的系統，並將複雜的系統 Log 轉化為具體的資安洞察。
+
+- 👀 **我感興趣的領域：** 資訊安全（威脅情資、數位鑑識）、後端開發、音樂製作以及運動科技。
+- 🌱 **我目前正在學習：** 持續精進我的資安專業知識，並正在準備雅思 (IELTS) 考試。 
+- 💞️ **我希望尋求合作的專案：** 開源資安工具、後端架構，或是能將人們連結起來的應用程式（例如我的羽球臨打配對 App `bat_match_app`）。
+- 📫 **如何聯絡我：** [LinkedIn](https://www.linkedin.com/in/cookie-without-monster/)]、[104人力銀行](https://pda.104.com.tw/profile/share/a6JLKeDMBwjiHgZliWdbolftgn3jrRQc)
+
+---
+
+### 🛠️ 技術堆疊與專長
+* **軟體開發：** 後端工程、API 設計與維護
+* **資安與分析：** SOC 分析、Log 紀錄檔分析、資安防護最佳化、威脅情資（例如整合 VirusTotal API）
+* **開發環境：** macOS
+
+### 🏆 專業證照
+* Certified Threat Intelligence Analyst (CTIA) v2
+* Computer Hacking Forensic Investigator (CHFI) v11
+* EC-Council Certified Security Specialist (ECSS)
