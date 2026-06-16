@@ -17,7 +17,7 @@ I'm a software and cybersecurity professional based in Taiwan. I specialize in b
 ### 🏆 Certifications
 * Certified Threat Intelligence Analyst (CTIA) v2
 * Computer Hacking Forensic Investigator (CHFI) v11
-* EC-Council Certified Security Specialist (ECSS)
+* Certified Ethical Hacker (CEH)
 
 ### whaula whuala，我是 @kevinkkliu！
 
@@ -38,4 +38,4 @@ I'm a software and cybersecurity professional based in Taiwan. I specialize in b
 ### 🏆 專業證照
 * Certified Threat Intelligence Analyst (CTIA) v2
 * Computer Hacking Forensic Investigator (CHFI) v11
-* EC-Council Certified Security Specialist (ECSS)
+* Certified Ethical Hacker (CEH)
