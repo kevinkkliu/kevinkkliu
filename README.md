@@ -12,7 +12,6 @@ I'm a software and cybersecurity professional based in Taiwan. I specialize in b
 ### 🛠️ Tech Stack & Expertise
 * **Development:** Backend Engineering, API Design & Maintenance
 * **Security & Analysis:** SOC Analysis, Log Analysis, Security Optimization, Threat Intelligence (e.g., VirusTotal API integration)
-* **Environment:** macOS
 
 ### 🏆 Certifications
 * Certified Threat Intelligence Analyst (CTIA) v2
@@ -33,7 +32,6 @@ I'm a software and cybersecurity professional based in Taiwan. I specialize in b
 ### 🛠️ 技術與專長
 * **軟體開發：** 後端工程、API 設計與維護
 * **資安與分析：** SOC 分析、Log 紀錄檔分析、資安防護最佳化、威脅情資（例如整合 VirusTotal API）
-* **開發環境：** macOS
 
 ### 🏆 專業證照
 * Certified Threat Intelligence Analyst (CTIA) v2
