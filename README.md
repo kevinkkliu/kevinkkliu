@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm @kevinkkliu!
 
-I'm a software and cybersecurity professional based in Taiwan. I specialize in backend architecture, API development, and Security Operations Center (SOC) analysis. I enjoy building secure, efficient systems and turning complex logs into actionable security insights.
+I'm a software and cybersecurity professional based in Taiwan. 
 
 - 👀 **I’m interested in:** Cybersecurity (Threat Intelligence, Forensics), Backend Development, Music Production, and Sports Tech.
 - 🌱 **I’m currently learning:** Continuously expanding my security expertise and preparing for my IELTS exam. 
@@ -20,7 +20,7 @@ I'm a software and cybersecurity professional based in Taiwan. I specialize in b
 
 ### whaula whuala，我是 @kevinkkliu！
 
-我是一名位於台灣的軟體與資安專業人員。我的專長在於後端架構、API 開發以及資安營運中心 (SOC) 分析。我熱衷於打造安全、高效能的系統，並將複雜的系統 Log 轉化為具體的資安洞察。
+我是一名位於台灣的軟體與資安專業人員
 
 - 👀 **我感興趣的領域：** 資訊安全（威脅情資、數位鑑識）、後端開發、音樂製作以及運動科技。
 - 🌱 **我目前正在學習：** 持續精進我的資安專業知識，並正在準備雅思 (IELTS) 考試。 
