@@ -18,7 +18,7 @@ I'm a software and cybersecurity professional based in Taiwan.
 
 - 👀 **我感興趣的領域：** 資訊安全（威脅情資、數位鑑識）、後端開發、音樂製作以及運動科技。
 - 💞️ **我希望尋求合作的專案：** 開源資安工具、後端架構，或是能將人們連結起來的應用程式（例如我的羽球臨打配對 App `bat_match_app`）。
-- 📫 **如何聯絡我：** [LinkedIn](https://www.linkedin.com/in/cookie-without-monster/)]
+- 📫 **如何聯絡我：** [LinkedIn](https://www.linkedin.com/in/cookie-without-monster/)
 
 ---
 
