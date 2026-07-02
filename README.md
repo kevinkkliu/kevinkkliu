@@ -4,7 +4,7 @@ I'm a software and cybersecurity professional based in Taiwan.
 
 - 👀 **I’m interested in:** Cybersecurity (Threat Intelligence, Forensics), Backend Development, Music Production, and Sports Tech.
 - 💞️ **I’m looking to collaborate on:** Open-source security tools, backend architectures, or applications that connect people (like my badminton matching app, `bat_match_app`).
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/cookie-without-monster/)]、[104人力銀行](https://pda.104.com.tw/profile/share/a6JLKeDMBwjiHgZliWdbolftgn3jrRQc)
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/cookie-without-monster/)
 
 ---
 
@@ -18,7 +18,7 @@ I'm a software and cybersecurity professional based in Taiwan.
 
 - 👀 **我感興趣的領域：** 資訊安全（威脅情資、數位鑑識）、後端開發、音樂製作以及運動科技。
 - 💞️ **我希望尋求合作的專案：** 開源資安工具、後端架構，或是能將人們連結起來的應用程式（例如我的羽球臨打配對 App `bat_match_app`）。
-- 📫 **如何聯絡我：** [LinkedIn](https://www.linkedin.com/in/cookie-without-monster/)]、[104人力銀行](https://pda.104.com.tw/profile/share/a6JLKeDMBwjiHgZliWdbolftgn3jrRQc)
+- 📫 **如何聯絡我：** [LinkedIn](https://www.linkedin.com/in/cookie-without-monster/)]
 
 ---
 
